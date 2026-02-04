@@ -20,7 +20,7 @@ export default function Hero() {
 					</p>
 
 					<div className="flex flex-col sm:flex-row items-center gap-6 justify-center md:justify-start">
-						<a href="/public/Resume - MD-Saymon.pdf" download>
+						<a href="/Resume - MD-Saymon.pdf" download>
 							<Button
 								variant="glow"
 								size="glow"
